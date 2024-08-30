@@ -110,6 +110,20 @@ nav.navbar.bootsnav.no-background {
     border: none;
 }
 
+.navbar-language-switcher {
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: middle;
+}
+
+.navbar-language-switcher select {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+
 nav.navbar.bootsnav {
     background-color: #fff;
     border-bottom: transparent;
